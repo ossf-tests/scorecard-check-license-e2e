@@ -1,0 +1,1 @@
+# scorecard-check-license-e2e
